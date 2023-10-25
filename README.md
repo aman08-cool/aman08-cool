@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aman08-cool/aman08-cool/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/aman08-cool/aman08-cool/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
